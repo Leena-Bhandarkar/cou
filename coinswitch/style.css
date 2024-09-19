@@ -1,0 +1,44 @@
+nav{
+    max-width: 12000px;
+    margin: auto;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+.box{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-right: 100px;
+    position: relative;
+    
+}
+li{
+    list-style: none;
+    
+}
+
+
+button{
+    padding: 5px;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 5px;
+    font-family: bolder;
+}
+.main{
+    height: 500px;
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+}
+.para{
+    width:  700px;
+    height: 500px;
+    border: 2px solid black;
+}
+
